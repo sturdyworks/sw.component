@@ -1,4 +1,4 @@
-swks-ajs-component
+sw.component
 ==================
 
-Sturdyworks AngularJS Component Seed
+Sturdyworks AngularJS Component
